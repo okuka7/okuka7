@@ -9,4 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okuka7)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=99)](https://velog.io/@99_/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=99)](https://velog.io/@99_/github-readme-status)
