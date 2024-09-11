@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/okuka7"
@@ -7,10 +6,8 @@
   height="300"
 />
 </a>
-
-<br>
-
 </div>
+<hr>
 <div align="center">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=99_)](https://velog.io/@99_)
