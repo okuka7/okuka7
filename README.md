@@ -7,7 +7,7 @@
 />
 </a>
 
-# Velog
+# 99's Velog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=99_)](https://velog.io/@99_)
 
