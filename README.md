@@ -7,7 +7,7 @@
 />
 </a>
 </div>
-<div align="justify">
+<div text-align="justify">
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=99_)](https://velog.io/@99_)
 
